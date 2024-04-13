@@ -12,3 +12,4 @@
 /Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.pdb
 /Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.genruntimeconfig.cache
 /Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/ref/pair_program_game.dll
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.sourcelink.json
