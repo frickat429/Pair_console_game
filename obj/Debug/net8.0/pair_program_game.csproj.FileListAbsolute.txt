@@ -1,0 +1,14 @@
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/bin/Debug/net8.0/pair_program_game
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/bin/Debug/net8.0/pair_program_game.deps.json
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/bin/Debug/net8.0/pair_program_game.runtimeconfig.json
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/bin/Debug/net8.0/pair_program_game.dll
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/bin/Debug/net8.0/pair_program_game.pdb
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.AssemblyInfoInputs.cache
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.AssemblyInfo.cs
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.csproj.CoreCompileInputs.cache
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.dll
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/refint/pair_program_game.dll
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.pdb
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/pair_program_game.genruntimeconfig.cache
+/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/Debug/net8.0/ref/pair_program_game.dll
