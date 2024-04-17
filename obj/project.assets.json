@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/austinfrick/.nuget/packages/": {}
+    "/Users/samgerry/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/pair_program_game.csproj",
+      "projectUniqueName": "/Users/samgerry/Documents/GitHub/Pair_console_game/pair_program_game.csproj",
       "projectName": "pair_program_game",
-      "projectPath": "/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/pair_program_game.csproj",
-      "packagesPath": "/Users/austinfrick/.nuget/packages/",
-      "outputPath": "/Users/austinfrick/ElevenFiftyProjects/codingFoundations/assignments/Pair_program_game/obj/",
+      "projectPath": "/Users/samgerry/Documents/GitHub/Pair_console_game/pair_program_game.csproj",
+      "packagesPath": "/Users/samgerry/.nuget/packages/",
+      "outputPath": "/Users/samgerry/Documents/GitHub/Pair_console_game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/austinfrick/.nuget/NuGet/NuGet.Config"
+        "/Users/samgerry/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
