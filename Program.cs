@@ -44,7 +44,8 @@ namespace ConsoleApp
                 $"Now, {protaganistName} must navigate this strange land, facing {adjective2} challenges and encountering peculiar creatures, all in search of a way back home. "+
                 $"But little does {protaganistName} know, there’s a {noun2} lurking in the shadows, watching {protaganistName} every move, with intentions that could change {protaganistName}’s fate forever."); 
   
-
+            Console.WriteLine() ;
+            System.Console.WriteLine("Thank you for playing, press enter to exit");
             Console.ReadLine();
         }
     }
