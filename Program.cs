@@ -40,13 +40,10 @@ namespace ConsoleApp
             //System.Console.WriteLine($“Title: \“The Mysterious Adventure of {protagonistName} and the {adjective1} {noun1}\“”);
             System.Console.WriteLine();
             System.Console.WriteLine($"In a {adjective1} {location}, {protaganistName} stumbled upon a(n) {noun1} that seemed to {actionVerb} with an eerie glow. "+
-                "Curiosity getting the best of {protagonistName}, {protagonistName} decided to {actionVerb} it. Suddenly, {unexpected} happened, transporting {protagonistName} to a fantastical realm filled with {pluralNoun}. "+
-                "Now, {protagonistName} must navigate this strange land, facing {adjective2} challenges and encountering peculiar creatures, all in search of a way back home. "+
-                "But little does {protagonistName} know, there’s a {noun2} lurking in the shadows, watching {protagonistName} every move, with intentions that could change {protagonistName}’s fate forever."); 
-            //Console.WriteLine($“In a {adjective1} {location}, {protagonistName} stumbled upon a(n) {noun1} that seemed to {verb} with an eerie glow. 
-            //Curiosity getting the best of {protagonistName}, {protagonistName} decided to {actionVerb} it. Suddenly, {unexpected} happened, transporting {protagonistName} to a fantastical realm filled with {pluralNoun}. 
-            //Now, {protagonistName} must navigate this strange land, facing {adjective2} challenges and encountering peculiar creatures, all in search of a way back home. 
-            //But little does {protagonistName} know, there’s a {noun2} lurking in the shadows, watching {protagonistName} every move, with intentions that could change {protagonistName}’s fate forever.“);
+                $"Curiosity getting the best of {protaganistName}, {protaganistName} decided to {actionVerb} it. Suddenly, {unexpected} happened, transporting {protaganistName} to a fantastical realm filled with {pluralNoun}. "+
+                $"Now, {protaganistName} must navigate this strange land, facing {adjective2} challenges and encountering peculiar creatures, all in search of a way back home. "+
+                $"But little does {protaganistName} know, there’s a {noun2} lurking in the shadows, watching {protaganistName} every move, with intentions that could change {protaganistName}’s fate forever."); 
+  
 
             Console.ReadLine();
         }
