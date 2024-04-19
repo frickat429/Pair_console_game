@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args) 
         {
-            Console.WriteLine("Welcome to Madlib Story Generator!");
+            Console.WriteLine("Welcome to Frick'n Sam Madlib Story Creator!");
 
             Console.Write("Enter a protagonist's name: ");
             string protaganistName = Console.ReadLine(); 
