@@ -37,7 +37,6 @@ namespace ConsoleApp
             
             Console.WriteLine();
             System.Console.WriteLine($"Title: 'The Mysterious Adventure of {protaganistName} and the {adjective1} {noun1}'");
-            //System.Console.WriteLine($“Title: \“The Mysterious Adventure of {protagonistName} and the {adjective1} {noun1}\“”);
             System.Console.WriteLine();
             System.Console.WriteLine($"In a {adjective1} {location}, {protaganistName} stumbled upon a(n) {noun1} that seemed to {actionVerb} with an eerie glow. "+
                 $"Curiosity getting the best of {protaganistName}, {protaganistName} decided to {actionVerb} it. Suddenly, {unexpected} happened, transporting {protaganistName} to a fantastical realm filled with {pluralNoun}. "+
