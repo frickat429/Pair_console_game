@@ -23,8 +23,12 @@ namespace ConsoleApp
             Console.Write("Enter a verb: ");
             string actionVerb = Console.ReadLine();
 
-            Console.Write("Enter something unexpected: ");
+            Console.Write("Enter something unexpected (leave blank for a random event): ");
             string unexpected = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(unexpected))
+            {
+                unexpected = UnexpectedEventGenerator.GenerateUnexpectedEvent();
+            }
 
             Console.Write("Enter a plural noun: ");
             string pluralNoun = Console.ReadLine();
@@ -46,6 +50,27 @@ namespace ConsoleApp
             Console.WriteLine() ;
             System.Console.WriteLine("Thank you for playing, press enter to exit");
             Console.ReadLine();
+        }
+    }
+
+    static class UnexpectedEventGenerator
+    {
+        private static readonly string[] UnexpectedEvents = {
+            "A sudden thunderstorm appeared out of nowhere.",
+            "A mysterious figure appeared and offered a cryptic message.",
+            "The ground trembled beneath their feet.",
+            "A portal opened up, sucking them into another dimension.",
+            "They stumbled upon an ancient artifact emitting a strange energy.",
+            "A flock of birds flew overhead, forming peculiar shapes in the sky.",
+            "A shooting star streaked across the sky, granting a wish upon seeing it.",
+            "A loud roar echoed through the area, sending shivers down their spine."
+        };
+
+        public static string GenerateUnexpectedEvent()
+        {
+            Random rand = new Random();
+            int index = rand.Next(UnexpectedEvents.Length);
+            return UnexpectedEvents[index];
         }
     }
 }

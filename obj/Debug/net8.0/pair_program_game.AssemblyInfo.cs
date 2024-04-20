@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pair_program_game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0988d992f363b67a6bb2fcb5542ad38836b78a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac5f3968e02810b91671797cba8d577311f8e008")]
 [assembly: System.Reflection.AssemblyProductAttribute("pair_program_game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pair_program_game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
